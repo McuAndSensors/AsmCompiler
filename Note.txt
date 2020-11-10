@@ -1,0 +1,16 @@
+*******************************************************************************************
+*********************There is two "warnings" when runing the make file*********************
+*******************************************************************************************
+
+Please Note: They are incorrect!
+
+The first warnning: 
+It is for doing a 'not' action on all bit in a variable (for the 2'complemnt) and is is warning about it. (the warning is on x = !x)
+
+The second warinning:
+It is on increasing the *var++ of matrix **var
+Basicly it is mat[index++]
+it is thinkng that it have no affect (but it defently those)
+
+Thanks :)
+Adiel.
